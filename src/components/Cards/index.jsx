@@ -29,7 +29,7 @@ const Cards = () => {
                 {inCredit && (
                   <>
                     <h2>
-                      <span class="text-[#EF3F32] text-lg"> {`${slice}x`} </span>
+                      <span className="text-[#EF3F32] text-lg"> {`${slice}x`} </span>
                       {`R$${inCredit}`}
                     </h2>
 
