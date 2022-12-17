@@ -38,7 +38,7 @@ const Cards = () => {
                 )}
                 {inCash && (
                   <h2>
-                    <span class="text-[#EF3F32]"> {'À Vista!'} </span>
+                    <span className="text-[#EF3F32]"> {'À Vista!'} </span>
                     {`R$${inCash}`}
                   </h2>
                 )}
