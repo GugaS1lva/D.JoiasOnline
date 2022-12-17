@@ -6,7 +6,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'Cinzel': "'Cinzel Decorative', cursive",
+        'Quicksand': "'Quicksand', sans-serif",
+      },
+    },
   },
   plugins: [],
 }
