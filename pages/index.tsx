@@ -1,6 +1,6 @@
-import Header from '../src/components/Header/index.jsx'
-import Cards from '../src/components/Cards/index.jsx'
-import Footer from '../src/components/Footer/index.jsx'
+import Header from '../src/components/Header'
+import Cards from '../src/components/Cards'
+import Footer from '../src/components/Footer'
 
 export default function Home() {
   return (

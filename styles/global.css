@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+section {
+    background: url('../src/assets/img/02.jpg') center center repeat-y;
+    background-size: 100%;
+}
+
+@media(max-width: 768px){
+    section {
+        background: url('../src/assets/img/02.jpg') center center repeat-y;
+        background-size: 250%;
+    }
+}
