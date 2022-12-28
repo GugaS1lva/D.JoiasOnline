@@ -6,7 +6,7 @@ const Cards = () => {
   const { items } = itemsInfo
 
   return (
-    <section className='flex flex-col items-center justify-center relative px-5 pt-8 text-black'>
+    <section className='flex flex-col items-center justify-center relative px-5 py-20 text-black'>
       <ul className='grid grid-cols-1 max-w-[800px] gap-y-5 gap-x-5 sm:grid-cols-2 md:grid-cols-3'>
         {items.map((item, index) => {
           const { image, title, description, inCash, inCredit, soldOff, slice } = item

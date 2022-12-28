@@ -37,6 +37,27 @@ import item36 from './item36.jpg'
 import item37 from './item37.jpg'
 import item38 from './item38.jpg'
 import item39 from './item39.jpg'
+import item40 from './item40.jpg'
+import item41 from './item41.jpg'
+import item42 from './item42.jpg'
+import item43 from './item43.jpg'
+import item44 from './item44.jpg'
+import item45 from './item45.jpg'
+import item46 from './item46.jpg'
+import item47 from './item47.jpg'
+import item48 from './item48.jpg'
+import item49 from './item49.jpg'
+import item50 from './item50.jpg'
+import item51 from './item51.jpg'
+import item52 from './item52.jpg'
+import item53 from './item53.jpg'
+import item54 from './item54.jpg'
+import item55 from './item55.jpg'
+import item56 from './item56.jpg'
+import item57 from './item57.jpg'
+import item58 from './item58.jpg'
+import item59 from './item59.jpg'
+import item60 from './item60.jpg'
 
 export {
     item01,
@@ -78,4 +99,25 @@ export {
     item37,
     item38,
     item39,
+    item40,
+    item41,
+    item42,
+    item43,
+    item44,
+    item45,
+    item46,
+    item47,
+    item48,
+    item49,
+    item50,
+    item51,
+    item52,
+    item53,
+    item54,
+    item55,
+    item56,
+    item57,
+    item58,
+    item59,
+    item60,
 }
