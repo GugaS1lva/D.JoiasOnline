@@ -26,7 +26,17 @@ const Footer = () => {
 
       <div className="flex flex-col text-center text-[#424242]">
         <p>© 2022</p>
-        <p>by Gustavo Silva</p>
+
+        <p>by 
+          <Link 
+            className="border-b-2 px-1 border-b-solid border-b-transparent hover:border-b-[#fb426b] hover:text-[#fb426b] transition-all"
+            href={'https://www.linkedin.com/in/guga-silva-124706233'} 
+            target={'_blank'}
+          >
+            Gustavo Silva
+          </Link>
+        </p>
+
         <p>All rights reserved.</p>
       </div>
 
