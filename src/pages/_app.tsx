@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" type="image/svg+xml" href="/logo.jpeg" />
-        <title>D'Joias Online | Website</title>
+        <title>DJoias Online | Website</title>
       </Head>
 
       <Component {...pageProps} />
