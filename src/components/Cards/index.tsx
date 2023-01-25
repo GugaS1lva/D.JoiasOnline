@@ -3,7 +3,6 @@ import Image from 'next/image'
 // import { itemsInfo } from '../../data/data.js'
 import { itemsInfo } from '../../data/data'
 
-
 const Cards = () => {
   const { items } = itemsInfo
   
