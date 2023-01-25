@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
 section {
     background: url('../src/assets/img/02.jpg') center center repeat-y;
     background-size: 100%;
@@ -12,4 +13,10 @@ section {
         background: url('../src/assets/img/02.jpg') center center repeat-y;
         background-size: 250%;
     }
+}
+*/
+
+*{
+    /* border-image: url("../public/Frame1.png") 150 round; */
+    border-image: url("../public/Frame1.png") 130 round;
 }

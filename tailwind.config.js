@@ -15,3 +15,11 @@ module.exports = {
   },
   plugins: [],
 }
+
+// Collors Pallete
+
+{/* #000000 - #FFFFFF - #8D505C - #A46A71 - #DDADB3 */}
+{/* #F4E5E8 - #DEC8C3 - #C4ACA1 - #947663 - #2F2924 */}
+{/* #E3E4E2 - #DAB991 - #ADB0B8 - #D0CDC9 - #8C776A */}
+
+{/* #2B3030 */}
