@@ -13,6 +13,7 @@ const Home = () => {
                     alt="djoiasBanner"
                     width={10000}
                     height={10000}
+                    priority
                 />
             </section>
 

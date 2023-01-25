@@ -1,11 +1,12 @@
-import Image from 'next/image.js'
+import Image from 'next/image'
 
-// import { itemsInfo } from '../../data/data'
-import { itemsInfo } from '../../data/data.js'
+// import { itemsInfo } from '../../data/data.js'
+import { itemsInfo } from '../../data/data'
+
 
 const Cards = () => {
   const { items } = itemsInfo
-
+  
   return (
     <section className='flex flex-col items-center justify-center py-5'>
       <ul className='max-w-[1050px] grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 2xl:max-w-[2000px]'>
